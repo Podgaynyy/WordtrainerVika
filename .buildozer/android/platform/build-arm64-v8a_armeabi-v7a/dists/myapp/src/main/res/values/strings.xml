@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schlau Vika</string>
+    <string name="private_version">41e4eba3a5ebd047d9c6f8b7ff73f4da077c3213</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>
